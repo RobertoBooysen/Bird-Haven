@@ -46,9 +46,6 @@ By clicking the "Settings" icon in the bottom navigation bar, you'll be directed
 ## ⬇️ Download Mobile Application 
 [Bird Haven Mobile Application](https://play.google.com/store/apps/details?id=com.rnkbirdhaven.bird_haven&pcampaignid=web_share&pli=1)
 
-## 🔗 GitHub Web Page Link
-[Bird Haven Web Page](https://vcnmb.github.io/vcnmb-opsc-2023-poe-rnk/)
-
 ## 📧 Contact Us
 Feel free to contact any of the following developers for improvements:
 * [ST10085223@vcconnect.edu.za](mailto:ST10085223@vcconnect.edu.za)
